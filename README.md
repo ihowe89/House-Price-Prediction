@@ -29,3 +29,6 @@ The dataset can be found on Kaggle: [Kaggle Dataset Link](https://www.kaggle.com
 
 ## License and Disclaimer
 MIT License for code, Dataset details found on Kaggle
+
+## Acknowledgements
+Thanks to fellow Kagglers for sharing notebooks/blogs/youtube videos and more with lots of good advice and intuition on this machine learning project
